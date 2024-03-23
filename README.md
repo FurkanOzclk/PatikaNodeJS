@@ -1,2 +1,2 @@
 # PatikaNodeJS
-Projects and homeworks for Patika NodeJS course
+Projects and homeworks for Patika.dev NodeJS course
